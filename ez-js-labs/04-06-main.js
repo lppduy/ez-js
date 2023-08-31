@@ -1,3 +1,4 @@
+console.log('JS says hellu 🤓');
 /**
  * Returns x raised to the n-th power.
  *
@@ -14,3 +15,7 @@ pow(1, 2);
 
 // reserved kw:
 // const import = 'duy'
+
+const result = 1 + (2 + -2) * 3 - +'3';
+console.log(result); // -2
+// 1 + 0 * 3 -3 = -2
