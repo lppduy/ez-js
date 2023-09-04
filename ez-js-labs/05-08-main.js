@@ -50,3 +50,7 @@ function isPositiveEvenNumber4(n) {
 }
 
 console.log(isPositiveEvenNumber4(10));
+
+// beginner -> luyện tập cả 4 cách
+// thực tế -> v4
+// trường hợp phức tạp hơn -> v2,v3,v4
